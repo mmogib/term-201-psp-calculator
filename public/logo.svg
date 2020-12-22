@@ -1,0 +1,21 @@
+<svg width="960" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="602" width="962" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m61.5,55.45313c1,0 2,0 3,0c1,0 2.96405,-0.2468 9,-1c11.94892,-1.49107 28.97842,-4.2291 49,-6c25.9754,-2.29752 53,-4 70,-5l8,0l2,0" id="svg_2" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <path d="m117.90623,142.52617c1,0 2.87779,1.59624 21,5c25.85382,4.85592 64.30994,10.86922 110,24c35.26062,10.1335 62.94833,19.14943 83,26c11.96982,4.08943 21.94672,7.49873 29,8c4.98743,0.35445 9,0 10,0c2,0 4,0 7,0l1,-1" id="svg_3" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <path d="m86.5,59.45313c-4,21 -6.23174,26.92767 -8,33c-1.15277,3.95868 -3.14805,8.22836 -2,11c1.08239,2.61313 5.03867,3.5548 9,3c7.20974,-1.00976 12.5187,-4.54124 16,-9c3.58844,-4.59599 5.07764,-9.55802 9,-15c1.65381,-2.29454 2.29289,-4.29289 3,-5c0.70711,-0.70711 1.63345,1.02248 2,4c0.50378,4.09222 0.97758,10.44437 4,16c3.05996,5.62465 9.16051,7.37852 15,6c6.52875,-1.54123 15,-9 18,-15c3,-6 4,-11 4,-15l0,-4l-1,-1l-3,0" id="svg_9" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <path d="m109.5,76.45313c3,17 3.76393,20.76393 6,23c2.23607,2.23607 7.38074,1.47779 10,-1c3.63226,-3.43607 6.44841,-7.80565 8,-12c1.4305,-3.867 1.61731,-6.07612 2,-7c0.5412,-1.30656 1,0 1,1c0,4 2.87807,8.90192 7,9c5.09758,0.1213 11,-4 18,-8l4,-3" id="svg_10" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <g id="svg_13">
+   <text transform="rotate(-4 463.0439147949222,240.18931579589827) matrix(1.3797508417182203,0,0,3.2736039533992733,-61.95130275161336,-407.2766910773486) " opacity="0.6" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="47" id="svg_1" y="211.11943" x="196.27075" stroke-width="0" fill="#00007f">WebAssign PSP</text>
+   <text transform="rotate(-6 479.99996948242347,391.66436767578125) " stroke="#000" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="69" id="svg_5" y="415.66819" x="199.8194" stroke-opacity="null" stroke-width="0" fill="#7f007f">Score Calculator</text>
+  </g>
+ </g>
+</svg>
