@@ -137,8 +137,8 @@ calculateChapterScore ch =
 ---- VIEW ----
 
 
-view : Model -> Html Msg
-view model =
+calculatorView : Model -> Html Msg
+calculatorView model =
     Element.layout [] <|
         column
             [ width fill, centerY, spacing 30 ]
@@ -183,6 +183,21 @@ view model =
                 ]
             , row [ centerX, spacing 25, Font.size 26 ] [ viewPage model ]
             ]
+
+
+viewMessage : Html Msg
+viewMessage =
+    column [ centerX, centerY, spacing 25 ]
+        [ el [ Font.size 25, Font.bold ] (text "The calculator is not available anymore.")
+        , el [ Font.size 25, Font.bold ] (text " Please check your scores on")
+        , el [ alignRight ] <| Element.newTabLink [ Font.color blue ] { label = text "Darajati System through portal", url = "http://portal.kfupm.edu.sa" }
+        ]
+        |> Element.layout []
+
+
+view : Model -> Html Msg
+view model =
+    viewMessage
 
 
 white : Element.Color
