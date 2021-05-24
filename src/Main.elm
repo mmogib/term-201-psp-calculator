@@ -197,7 +197,7 @@ viewMessage =
 
 view : Model -> Html Msg
 view model =
-    viewMessage
+    calculatorView model
 
 
 white : Element.Color
